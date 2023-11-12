@@ -66,7 +66,7 @@ public class Calculadora {
                 System.out.println("El resulatdo es: " + dividir);
                 break;
             default:
-                System.out.println("Ingrese un número válido");
+                System.out.println("Ingrese un número válido por favor");
                 break;
         }
         scanner.close();
